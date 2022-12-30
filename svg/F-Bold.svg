@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="12.410156" height="21" fill="none" version="1.1" viewBox="0 0 12.410156 21" xmlns="http://www.w3.org/2000/svg">
-    <path d="M 0.955078,0 0,0.95507812 V 21 H 1.910156 V 11.455078 H 10.5 V 9.5449219 H 1.910156 V 1.9082031 h 10.5 V 0 Z" fill="#000"/>
+<svg width="13" height="21" fill="none" version="1.1" viewBox="0 0 13 21" xmlns="http://www.w3.org/2000/svg">
+    <path d="m1 0-1 1v20h2v-9.5h9v-2h-9v-7.5h11v-2z" fill="#000"/>
 </svg>
